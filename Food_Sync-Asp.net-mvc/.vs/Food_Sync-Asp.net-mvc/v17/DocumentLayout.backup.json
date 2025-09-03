@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\models\\AdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\AdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\LoginAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\LoginAdmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\ListOfInvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\ListOfInvoices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\ListOfOrders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Admin\\ListOfOrders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Shared\\_LayoutAdminPage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_LayoutAdminPage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148175384:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:05:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdminPage.cshtml",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Shared\\_LayoutAdminPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdminPage.cshtml",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Shared\\_LayoutAdminPage.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdminPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T10:09:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListOfOrders.cshtml",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\ListOfOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ListOfOrders.cshtml",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\ListOfOrders.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ListOfOrders.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T10:08:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListOfInvoices.cshtml",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\ListOfInvoices.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ListOfInvoices.cshtml",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\ListOfInvoices.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ListOfInvoices.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T10:08:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginAdmin.cshtml",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\LoginAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\LoginAdmin.cshtml",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\LoginAdmin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\LoginAdmin.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T10:08:16.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwEsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T10:07:28.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\models\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "models\\AdminLogin.cs",
+              "ToolTip": "C:\\SD\\Food_Sync-Asp.net-mvc\\Food_Sync-Asp.net-mvc\\models\\AdminLogin.cs",
+              "RelativeToolTip": "models\\AdminLogin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:06:27.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
